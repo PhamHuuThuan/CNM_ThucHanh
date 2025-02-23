@@ -1,6 +1,18 @@
 {
+  "name": "PhamHuuThuan_ThucHanhTuan02",
+  "version": "1.0.0",
+  "description": "Bai thuc hanh",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: No test sepecified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pham Huu Thuan",
+  "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.10",
+    "express": "^4.21.2",
     "nodemon": "^3.1.9"
   }
 }
