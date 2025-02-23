@@ -1,3 +1,36 @@
 h1 {
     color: red;
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f8f8;
+}
+
+.content {
+    max-width: 800px;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #b2fab4; /* Xanh lá nhạt */
+    text-align: center;
 }
